@@ -3588,3 +3588,7 @@ input, select, textarea {
 			}
 
 		}
+.blockquote-footer{
+	font-weight: bold;
+	font-style: normal;
+}
