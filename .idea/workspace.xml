@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="44d6a79a-fc7d-4189-a354-07c13faf6e80" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +24,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/Practica5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SvnConfiguration">
@@ -38,30 +40,44 @@
       <workItem from="1583866257007" duration="4277000" />
       <workItem from="1583936491120" duration="1268000" />
       <workItem from="1583937783614" duration="286000" />
-      <workItem from="1583938108785" duration="1155000" />
+      <workItem from="1583938108785" duration="2041000" />
+      <workItem from="1584013198362" duration="1276000" />
+      <workItem from="1585164564366" duration="464000" />
     </task>
+    <task id="LOCAL-00001" summary="miguel &lt;3">
+      <created>1583939390968</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583939390968</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="miguel &lt;3" />
+    <option name="LAST_COMMIT_MESSAGE" value="miguel &lt;3" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="379" y="12" key="CommitChangelistDialog2" timestamp="1583939332308">
+    <state x="379" y="12" key="CommitChangelistDialog2" timestamp="1583939389675">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="379" y="12" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583939332308" />
-    <state x="548" y="171" key="FileChooserDialogImpl" timestamp="1583938751342">
+    <state x="379" y="12" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583939389675" />
+    <state x="548" y="171" key="FileChooserDialogImpl" timestamp="1583944859210">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="548" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583938751342" />
+    <state x="548" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583944859210" />
     <state x="279" y="58" key="SettingsEditor" timestamp="1583937592044">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583937592044" />
-    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1583937887453">
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1583939416398">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1583937887453" />
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1583939416398" />
     <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1583938640639">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
